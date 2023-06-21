@@ -1,0 +1,17 @@
+#loginModal{
+
+    width: 30vw;
+    height: 40vh;
+    background: whitesmoke;
+    display: flex;
+}
+
+.referencia{
+    height: 100%;
+}
+
+.modal-content{
+    height: 100%;
+
+
+}
